@@ -30,7 +30,7 @@ task build
 //		include "public/**"
 //		include "routes/**"
 //		include "views/**"
-	}
+//	}
 //	destinationDir(file("dist"))
 //	baseName "trainSchedule"
 //}
